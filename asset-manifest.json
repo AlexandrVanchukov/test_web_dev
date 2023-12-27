@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test_web_dev/static/css/main.7f5422c3.css",
+    "main.js": "/test_web_dev/static/js/main.9687ee5b.js",
+    "static/media/icon_profile.png": "/test_web_dev/static/media/icon_profile.51621569bd6e2e10e75a.png",
+    "index.html": "/test_web_dev/index.html",
+    "static/media/Ellipse 1.svg": "/test_web_dev/static/media/Ellipse 1.0ae41ac9f04887ac5345a6d9e7fa8a00.svg",
+    "main.7f5422c3.css.map": "/test_web_dev/static/css/main.7f5422c3.css.map",
+    "main.9687ee5b.js.map": "/test_web_dev/static/js/main.9687ee5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5422c3.css",
+    "static/js/main.9687ee5b.js"
+  ]
+}
